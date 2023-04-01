@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>login</title>
+<!-- Include CSS File Here -->
+<link rel="stylesheet" href="login-form.css"/>
+<!-- Include JS File Here -->
+<script src="login-form.js"></script>
+</head>
+<body>
+<div class="container">
+<div class="main">
+<h2>User Login</h2>
+<form id="form_id" method="post" name="myform">
+<label>User Name :</label>
+<input type="text" name="username" id="username"/>
+<label>Password :</label>
+<input type="password" name="password" id="password"/>
+<input type="button" value="Login" id="submit" onclick="validate()"/>
+<div class="sign-up">
+    <a href="signup.html"><span class="btn btn-block text-white signup-button">sign up</span></a>
+</div>
+</form>
+<span><b class="note">Note : </b><br/><b class="valid">User Name : user <br/>Password : user123 </b></span>
+</div>
+</div>
+</body>
+</html>

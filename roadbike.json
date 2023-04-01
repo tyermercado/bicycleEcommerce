@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Cannondale Synapse",
+        "price": 25900.00,
+        "image": { "fields": { "file": { "url": "./Road/Cannondale_Synapse_Carbon_2_RL-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": " Canyon Roadlite 8",
+        "price": 35900.00,
+        "image": { "fields": { "file": { "url": "./Road/Canyon_Roadlite_8_Hybrid_Bike-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Giant Fastroad Advanced 1",
+        "price": 33000.00,
+        "image": { "fields": { "file": { "url": "./Road/Giant_FastRoad_Advanced_1_Hybrid_Bike-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Ribble Endurance",
+        "price": 50000.00,
+        "image": { "fields": { "file": { "url": "./Road/Ribble_s_Endurance_SLe_-_Pro_Di2-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Simplon Kiaro",
+        "price": 43900.00,
+        "image": { "fields": { "file": { "url": "./Road/Simplon_Kiaro_Disc-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Specialized Sirrus 6.0",
+        "price": 55900.00,
+        "image": { "fields": { "file": { "url": "./Road/Specialized_Sirrus_6.0_Hybrid_Bike_with_FutureShock-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Giant Defy Pro 2",
+        "price": 38900.00,
+        "image": { "fields": { "file": { "url": "./Road/The_Giant_Defy_Advanced_Pro_2-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Trek FX Sport 5",
+        "price": 53900.00,
+        "image": { "fields": { "file": { "url": "./Road/Trek_FX_Sport_5_Hybrid_Bike-removebg-preview.png" } } }
+      }
+    }
+  ]
+}

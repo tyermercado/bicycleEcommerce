@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Commencal Supreme DH29",
+        "price": 13900.00,
+        "image": { "fields": { "file": { "url": "./mountain/Commencal_Supreme_DH_29-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Mondraker Summum Carbon Pro",
+        "price": 15900.00,
+        "image": { "fields": { "file": { "url": "./mountain/Mondraker_Summum_Carbon_Pro_Team-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Noroco Aurum HSP",
+        "price": 13000.00,
+        "image": { "fields": { "file": { "url": "./mountain/Norco_Aurum_HSP_C1-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": " Nukeproof Dissent 920",
+        "price": 20000.00,
+        "image": { "fields": { "file": { "url": "./mountain/Nukeproof_Dissent_920_Comp-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Santa Cruz V10",
+        "price": 23900.00,
+        "image": { "fields": { "file": { "url": "./mountain/Santa_Cruz_V10_S_29-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Scott Gambler",
+        "price": 25900.00,
+        "image": { "fields": { "file": { "url": "./mountain/Scott_Gambler_910-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Specialized Demo Expert29",
+        "price": 30900.00,
+        "image": { "fields": { "file": { "url": "./mountain/Specialized_Demo_Expert_29-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Transition TR11",
+        "price": 23900.00,
+        "image": { "fields": { "file": { "url": "./mountain/Transition_TR11_Carbon_XO1-removebg-preview.png" } } }
+      }
+    }
+  ]
+}

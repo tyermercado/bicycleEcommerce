@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "SUPERNOVA E3 TRIPLE 2 DYNAMO HEADLIGHT",
+          "price": 1500.00,
+          "image": { "fields": { "file": { "url": "./accessories/SUPERNOVA_E3_TRIPLE_2_DYNAMO_HEADLIGHT-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "LIGHT MOTION SECA COMP 2000 RECHARGEABLE HEADLIGHT",
+          "price": 2000.00,
+          "image": { "fields": { "file": { "url": "./accessories/LIGHT___MOTION_SECA_COMP_2000_RECHARGEABLE_HEADLIGHT-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "POC VENTRAL AIR MIPS HELMET",
+          "price": 3000.00,
+          "image": { "fields": { "file": { "url": "./accessories/POC_VENTRAL_AIR_MIPS_HELMET-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "GIRO AETHER SPHERICAL ROAD HELMET",
+          "price": 3900.00,
+          "image": { "fields": { "file": { "url": "./accessories/GIRO_AETHER_SPHERICAL_ROAD_HELMET-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "KUAT PIVOT V2 SWING AWAY HITCH RACK ADAPTER",
+          "price": 1000.00,
+          "image": { "fields": { "file": { "url": "./parts/SHIMANO_105_FC-R7000_CRANKSET-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "KUAT TRANSFER V2 PLATFORM HITCH RACK",
+          "price": 1400.00,
+          "image": { "fields": { "file": { "url": "./accessories/KUAT_TRANSFER_V2_PLATFORM_HITCH_RACK-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "ABUS TRESOR 1385 COMBINATION CHAIN LOCK",
+          "price": 900.00,
+          "image": { "fields": { "file": { "url": "./accessories/ABUS_TRESOR_1385_COMBINATION_CHAIN_LOCK-removebg-preview.png" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "ABUS KEYED GRANIT PLUS 470 U-LOCK",
+          "price": 950.00,
+          "image": { "fields": { "file": { "url": "./accessories/ABUS_KEYED_GRANIT_PLUS_470_U-LOCK-removebg-preview.png" } } }
+        }
+      }
+    ]
+  }

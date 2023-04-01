@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Aventon Level",
+        "price": 5000.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Aventon_Level.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Brooklyn Lorimer",
+        "price": 3000.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Brooklyn_Lorimer-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Cannondale Treadwell",
+        "price": 3900.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Cannondale_Treadwell_EQ_Remixte-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Canyon Commuter",
+        "price": 4900.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/canyon_commuter-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Civia Lowry",
+        "price": 5000.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Civia_Lowry_Step-Thru-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Electra Croft",
+        "price": 4900.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Electra_Loft_7D-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Gazelle Ultimate",
+        "price": 2900.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Priority_600-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Schwinn Collegiate",
+        "price": 3900.00,
+        "image": { "fields": { "file": { "url": "/urban_bikes/Schwinn_Collegiate-removebg-preview.png" } } }
+      }
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "polygon cascade",
+        "price": 30900.00,
+        "image": { "fields": { "file": { "url": "./images/Polygon Cascade.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "norco youth bicycle",
+        "price": 49000.00,
+        "image": { "fields": { "file": { "url": "./images/b2.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Syncline C5",
+        "price": 58000.00,
+        "image": { "fields": { "file": { "url": "./images/MTBROMO_N7_2022.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": " haibike xduro ",
+        "price": 39900.00,
+        "image": { "fields": { "file": { "url": "./images/b1.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "polygon siskiu",
+        "price": 33900.00,
+        "image": { "fields": { "file": { "url": "./images/531352.png" } } }
+      }
+    }
+  ]
+}

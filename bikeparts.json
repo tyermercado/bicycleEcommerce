@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "RITCHEY ROAD LOGIC DISC FRAMESET ",
+        "price": 5900.00,
+        "image": { "fields": { "file": { "url": "./parts/ITCHEY_ROAD_LOGIC_DISC_FRAMESET-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "RITCHEY ROAD LOGIC FRAMESET ",
+        "price": 4900.00,
+        "image": { "fields": { "file": { "url": "./parts/RITCHEY_ROAD_LOGIC_FRAMESET-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "REYNOLDS ATR CARBON WHEELSET",
+        "price": 7900.00,
+        "image": { "fields": { "file": { "url": "./parts/REYNOLDS_ATR_CARBON_WHEELSET-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "SPECIALIZED TERRA C WHEELSET",
+        "price": 6900.00,
+        "image": { "fields": { "file": { "url": "./parts/SPECIALIZED_TERRA_C_WHEELSET-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "SHIMANO 105 FC-R7000 CRANKSET",
+        "price": 4900.00,
+        "image": { "fields": { "file": { "url": "./parts/SHIMANO_105_FC-R7000_CRANKSET-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "SHIMANO DEORE M6000-3 CRANKSET",
+        "price": 5900.00,
+        "image": { "fields": { "file": { "url": "./parts/SHIMANO_DEORE_M6000-3_CRANKSET-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "SPECIALIZED ROVAL RAPIDE HANDLEBARS",
+        "price": 4900.00,
+        "image": { "fields": { "file": { "url": "./parts/SPECIALIZED_ROVAL_RAPIDE_HANDLEBARS-removebg-preview.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "ZIPP SERVICE COURSE SL-70 ERGO HANDLEBAR",
+        "price": 3900.00,
+        "image": { "fields": { "file": { "url": "./parts/ZIPP_SERVICE_COURSE_SL-70_ERGO_HANDLEBAR-removebg-preview.png" } } }
+      }
+    }
+  ]
+}
