@@ -1,1 +1,3 @@
-# bicycleEcommerce.github.io
+# bicycleEcommerce
+
+  Bicycle eCommerce using html, css and js
