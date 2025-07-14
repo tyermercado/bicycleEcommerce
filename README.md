@@ -12,15 +12,6 @@ A simple static **eCommerce website** for selling bicycles, built using **HTML**
 
 ---
 
-## ❌ Not Included
-
-- ❌ Product search or filtering
-- ❌ Payment integration
-- ❌ Order tracking or history
-- ❌ Backend/database connection
-
----
-
 ## 🧰 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript
