@@ -1,6 +1,6 @@
 # 🚲 Bicycle eCommerce
 
-A simple static **eCommerce website** for selling bicycles, built using **HTML**, **CSS**, and **JavaScript**. This project was created for learning front-end development and showcases a basic product listing interface with client-side features.
+A simple static **eCommerce website** for selling bicycles, built using **HTML**, **CSS**, and **JavaScript**. This project was developed as the **final project in our major subject**, focusing on front-end development fundamentals and UI interaction.
 
 ---
 
@@ -23,7 +23,7 @@ A simple static **eCommerce website** for selling bicycles, built using **HTML**
 
 ## 🧰 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (Vanilla)
+- **Frontend:** HTML, CSS, JavaScript
 - **No backend** or database
 
 ---
