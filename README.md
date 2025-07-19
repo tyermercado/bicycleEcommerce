@@ -7,7 +7,6 @@ A simple static **eCommerce website** for selling bicycles, built using **HTML**
 ## 🛍️ Features
 
 - 🎨 Product listing with images and details
-- 🧾 Responsive layout using HTML & CSS
 - ⚡ Interactive UI using JavaScript
 
 ---
